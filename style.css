@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+H1{
+    color: black;
+    text-align: center;
+}
+p{
+    color: black;
+    background-color: #BBD4B4;
+}
+.logo{
+    display:block;
+}
